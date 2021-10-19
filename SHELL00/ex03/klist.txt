@@ -1,0 +1,5 @@
+ Credentials cache: API:93C69132-B0C2-44D6-91BD-8B01923D4349
+        Principal: fmustin@S19.BE
+
+  Issued                Expires               Principal
+Aug  2 11:15:31 2021  Aug  2 21:15:26 2021  krbtgt/S19.BE@S19.BE
